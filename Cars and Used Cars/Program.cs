@@ -41,3 +41,10 @@ Console.WriteLine("Press any key to see the remaining cars available for purchas
 Console.ReadKey();
 Console.WriteLine();
 Car.ListCars();
+
+// How can inheritance increase the scalability of your project?
+
+// Inheritance increases scalability in a few ways. First, it allows for commonly used code in an application to be written once in a base class and then shared among
+// several derived classes. This ensures that shared code only needs to be maintained in one place rather than being repeated in every subclass. Because of this, most
+// maintenance can be done in the base class as all derived classes will inherit the changes made. Also, subclasses can be added if desired without modifying exisiting
+// functionality.

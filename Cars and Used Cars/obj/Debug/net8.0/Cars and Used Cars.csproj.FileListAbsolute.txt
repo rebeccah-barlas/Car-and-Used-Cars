@@ -12,3 +12,4 @@ C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8
 C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\Cars and Used Cars.pdb
 C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\Cars and Used Cars.genruntimeconfig.cache
 C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\ref\Cars and Used Cars.dll
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\Cars and Used Cars.sourcelink.json
