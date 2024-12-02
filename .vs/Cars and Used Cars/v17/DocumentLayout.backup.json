@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barla\\source\\repos\\Cars and Used Cars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA5894A-7B98-4C8C-99DD-F503ED328BAE}|Cars and Used Cars\\Cars and Used Cars.csproj|c:\\users\\barla\\source\\repos\\cars and used cars\\cars and used cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA5894A-7B98-4C8C-99DD-F503ED328BAE}|Cars and Used Cars\\Cars and Used Cars.csproj|solutionrelative:cars and used cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA5894A-7B98-4C8C-99DD-F503ED328BAE}|Cars and Used Cars\\Cars and Used Cars.csproj|c:\\users\\barla\\source\\repos\\cars and used cars\\cars and used cars\\usedcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA5894A-7B98-4C8C-99DD-F503ED328BAE}|Cars and Used Cars\\Cars and Used Cars.csproj|solutionrelative:cars and used cars\\usedcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA5894A-7B98-4C8C-99DD-F503ED328BAE}|Cars and Used Cars\\Cars and Used Cars.csproj|c:\\users\\barla\\source\\repos\\cars and used cars\\cars and used cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA5894A-7B98-4C8C-99DD-F503ED328BAE}|Cars and Used Cars\\Cars and Used Cars.csproj|solutionrelative:cars and used cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\barla\\source\\repos\\Cars and Used Cars\\Cars and Used Cars\\Car.cs",
+              "RelativeDocumentMoniker": "Cars and Used Cars\\Car.cs",
+              "ToolTip": "C:\\Users\\barla\\source\\repos\\Cars and Used Cars\\Cars and Used Cars\\Car.cs",
+              "RelativeToolTip": "Cars and Used Cars\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:29:46.673Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsedCar.cs",
+              "DocumentMoniker": "C:\\Users\\barla\\source\\repos\\Cars and Used Cars\\Cars and Used Cars\\UsedCar.cs",
+              "RelativeDocumentMoniker": "Cars and Used Cars\\UsedCar.cs",
+              "ToolTip": "C:\\Users\\barla\\source\\repos\\Cars and Used Cars\\Cars and Used Cars\\UsedCar.cs",
+              "RelativeToolTip": "Cars and Used Cars\\UsedCar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:36:58.581Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barla\\source\\repos\\Cars and Used Cars\\Cars and Used Cars\\Program.cs",
+              "RelativeDocumentMoniker": "Cars and Used Cars\\Program.cs",
+              "ToolTip": "C:\\Users\\barla\\source\\repos\\Cars and Used Cars\\Cars and Used Cars\\Program.cs*",
+              "RelativeToolTip": "Cars and Used Cars\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:28:31.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

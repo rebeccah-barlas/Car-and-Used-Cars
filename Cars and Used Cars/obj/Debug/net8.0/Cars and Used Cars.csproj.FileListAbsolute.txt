@@ -1,0 +1,14 @@
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\bin\Debug\net8.0\Cars and Used Cars.exe
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\bin\Debug\net8.0\Cars and Used Cars.deps.json
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\bin\Debug\net8.0\Cars and Used Cars.runtimeconfig.json
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\bin\Debug\net8.0\Cars and Used Cars.dll
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\bin\Debug\net8.0\Cars and Used Cars.pdb
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\Cars and Used Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\Cars and Used Cars.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\Cars and Used Cars.AssemblyInfo.cs
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\Cars and Used Cars.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\Cars and Used Cars.dll
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\refint\Cars and Used Cars.dll
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\Cars and Used Cars.pdb
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\Cars and Used Cars.genruntimeconfig.cache
+C:\Users\barla\source\repos\Cars and Used Cars\Cars and Used Cars\obj\Debug\net8.0\ref\Cars and Used Cars.dll
